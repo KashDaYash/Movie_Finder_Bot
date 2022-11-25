@@ -15,7 +15,7 @@
       "inline"
     ],
     "website": "https://t.me/trtechguide",
-    "repository": "https://github.com/TR-TECH-GUIDE/nstcmoviefinder",
+    "repository": "https://github.com/KashDaYash/Movie_Finder_Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
