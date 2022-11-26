@@ -22,13 +22,13 @@
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TharukRenuja/NSTC-Movie-Finder)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KashDaYash/Movie_Finder_Bot)
 
 ### Hard Way
 
 ```bash
 #Cloning Source
-git clone https://github.com/TharukRenuja/NSTC-Movie-Finder.git
+git clone https://github.com/KashDaYash/Movie_Finder_Bot.git
 
 # Create virtual environment
 python3 -m venv env
@@ -86,20 +86,19 @@ logger - Get log file
 
 
 ## Support
-Contact Me On [Telegram](https://t.me/TharukRenuja)
+Contact Me On [Telegram](https://t.me/KashDaYash)
 
-[Bots Updates](https://t.me/SLBotsOfficial)
-[Movie Updates](https://t.me/nstcentertainment)
-[Movie Request Group](https://t.me/nstcentertainmentgroup)
-[Movie Request New Group](https://t.me/genuinemovieclub)
+[Bots Updates](https://t.me/DynicaBots)
+[Movie Updates](https://t.me/DynicaMovies)
+[Movie Request Group](https://t.me/DynicaMovie)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
 ```
 Made with Python3
-(C) @TharukRenuja
+(C) @KashDaYash
 Copyright permission under GNU Public License
-License -> https://github.com/TharukRenuja/NSTC-Movie-Finder/blob/main/LICENSE
+License -> https://github.com/KashDaYash/Movie_Finder_Bot/blob/main/LICENSE
 ```
 
 ### Credits
@@ -108,4 +107,4 @@ License -> https://github.com/TharukRenuja/NSTC-Movie-Finder/blob/main/LICENSE
 - [SUBIN](https://github.com/subinps)
 - [Mahesh](https://github.com/Mahesh0253) for Media Search Bot.
 - [TrojanzHex](https://github.com/TroJanzHEX) for Auto Filter Bot.
-- [Me](https://github.com/TharukRenuja) for Nothing🤣.
+- [Me](https://github.com/KashDaYash) for Nothing🤣.
